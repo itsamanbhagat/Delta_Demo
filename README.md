@@ -1,2 +1,2 @@
 # Delta_Demo
-IN THIS REPOSITERY WE WILL LEARN WORKING OF GITHUB
+IN this repositery we learn about working of github
